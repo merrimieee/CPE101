@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6a5859b2f10865c18155b012"
+  },
+  "categoryId": 1,
+  "name": "6875a0010000000000000001",
+  "price": "Red Rose Bouquet",
+  "discountPrice": 990,
+  "sku": 890,
+  "coverImage": "FL00001",
+  "stock": "red-rose.jpg",
+  "rating": 50,
+  "sold": 4.8,
+  "status": 250
+},
+{
+  "_id": {
+    "$oid": "6a5859b2f10865c18155b013"
+  },
+  "categoryId": 2,
+  "name": "6875a0010000000000000002",
+  "price": "White Lily Bouquet",
+  "discountPrice": 1290,
+  "sku": 1190,
+  "coverImage": "FL00002",
+  "stock": "white-lily.jpg",
+  "rating": 35,
+  "sold": 4.9,
+  "status": 145
+},
+{
+  "_id": {
+    "$oid": "6a5859b2f10865c18155b014"
+  },
+  "categoryId": 3,
+  "name": "6875a0010000000000000003",
+  "price": "Pink Tulip Bouquet",
+  "discountPrice": 1490,
+  "sku": 1390,
+  "coverImage": "FL00003",
+  "stock": "pink-tulip.jpg",
+  "rating": 28,
+  "sold": 4.8,
+  "status": 112
+},
+{
+  "_id": {
+    "$oid": "6a5859b2f10865c18155b015"
+  },
+  "categoryId": 4,
+  "name": "6875a0010000000000000004",
+  "price": "Sunflower Bouquet",
+  "discountPrice": 990,
+  "sku": 890,
+  "coverImage": "FL00004",
+  "stock": "sunflower.jpg",
+  "rating": 60,
+  "sold": 4.7,
+  "status": 220
+},
+{
+  "_id": {
+    "$oid": "6a5859b2f10865c18155b016"
+  },
+  "categoryId": 5,
+  "name": "6875a0010000000000000005",
+  "price": "Purple Orchid Bouquet",
+  "discountPrice": 1690,
+  "sku": 1590,
+  "coverImage": "FL00005",
+  "stock": "purple-orchid.jpg",
+  "rating": 22,
+  "sold": 4.9,
+  "status": 95
+},
+{
+  "_id": {
+    "$oid": "6a5859b2f10865c18155b017"
+  },
+  "categoryId": 6,
+  "name": "6875a0010000000000000006",
+  "price": "Carnation Love Bouquet",
+  "discountPrice": 890,
+  "sku": 790,
+  "coverImage": "FL00006",
+  "stock": "carnation.jpg",
+  "rating": 55,
+  "sold": 4.6,
+  "status": 185
+},
+{
+  "_id": {
+    "$oid": "6a5859b2f10865c18155b018"
+  },
+  "categoryId": 7,
+  "name": "6875a0010000000000000007",
+  "price": "Blue Hydrangea Bouquet",
+  "discountPrice": 1590,
+  "sku": 1490,
+  "coverImage": "FL00007",
+  "stock": "hydrangea.jpg",
+  "rating": 18,
+  "sold": 4.8,
+  "status": 76
+},
+{
+  "_id": {
+    "$oid": "6a5859b2f10865c18155b019"
+  },
+  "categoryId": 8,
+  "name": "6875a0010000000000000008",
+  "price": "Daisy Fresh Bouquet",
+  "discountPrice": 790,
+  "sku": 690,
+  "coverImage": "FL00008",
+  "stock": "daisy.jpg",
+  "rating": 80,
+  "sold": 4.5,
+  "status": 205
+},
+{
+  "_id": {
+    "$oid": "6a5859b2f10865c18155b01a"
+  },
+  "categoryId": 9,
+  "name": "6875a0010000000000000009",
+  "price": "Peony Premium Bouquet",
+  "discountPrice": 1990,
+  "sku": 1890,
+  "coverImage": "FL00009",
+  "stock": "peony.jpg",
+  "rating": 15,
+  "sold": 5,
+  "status": 68
+},
+{
+  "_id": {
+    "$oid": "6a5859b2f10865c18155b01b"
+  },
+  "categoryId": 10,
+  "name": "6875a0010000000000000010",
+  "price": "Mixed Flower Bouquet",
+  "discountPrice": 1790,
+  "sku": 1690,
+  "coverImage": "FL00010",
+  "stock": "mixed-bouquet.jpg",
+  "rating": 40,
+  "sold": 4.9,
+  "status": 312
+}]

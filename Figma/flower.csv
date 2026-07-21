@@ -1,0 +1,11 @@
+categoryId,name,price,discountPrice,sku,coverImage,stock,rating,sold,status
+1,6875a0010000000000000001,Red Rose Bouquet,990,890,FL00001,red-rose.jpg,50,4.8,250,true
+2,6875a0010000000000000002,White Lily Bouquet,1290,1190,FL00002,white-lily.jpg,35,4.9,145,true
+3,6875a0010000000000000003,Pink Tulip Bouquet,1490,1390,FL00003,pink-tulip.jpg,28,4.8,112,true
+4,6875a0010000000000000004,Sunflower Bouquet,990,890,FL00004,sunflower.jpg,60,4.7,220,true
+5,6875a0010000000000000005,Purple Orchid Bouquet,1690,1590,FL00005,purple-orchid.jpg,22,4.9,95,true
+6,6875a0010000000000000006,Carnation Love Bouquet,890,790,FL00006,carnation.jpg,55,4.6,185,true
+7,6875a0010000000000000007,Blue Hydrangea Bouquet,1590,1490,FL00007,hydrangea.jpg,18,4.8,76,true
+8,6875a0010000000000000008,Daisy Fresh Bouquet,790,690,FL00008,daisy.jpg,80,4.5,205,true
+9,6875a0010000000000000009,Peony Premium Bouquet,1990,1890,FL00009,peony.jpg,15,5.0,68,true
+10,6875a0010000000000000010,Mixed Flower Bouquet,1790,1690,FL00010,mixed-bouquet.jpg,40,4.9,312,true
